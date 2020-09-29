@@ -1,7 +1,7 @@
 <p align="center">
-  <span><strong>Othello Board Game</strong></span>
+  <span><strong>To-Do List Task Management Application</strong></span>
   <br>
-  <span>Project Dates: Oct 2019 - Dec 2020</span>
+  <span>Project Dates: Mar 2020 - Apr 2020</span>
 </p>
 • Designed a fully functional command-line task management application in Java with basic Model View Controller architecture.
 • Allows users to create and organize their 'to-do' lists.
