@@ -13,4 +13,6 @@
 <br>
 • Implemented efficient sorting and filtering methodologies for the 'to-do' list using knowledge of lambda functions.
 <br>
+• Used knowledge of lambda functions to implement efficient sorting and filtering methodologies for the 'to-do' list.
+<br>
 • Performed code reviews and exchanged information with teammates through Git.
