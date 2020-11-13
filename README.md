@@ -16,9 +16,8 @@
 • Used knowledge of lambda functions to implement efficient sorting and filtering methodologies for the 'to-do' list.
 <br>
 • Performed code reviews and exchanged information with teammates through Git.
-
-
-Your program should accept the following command line arguments in any order:
+<br>
+The program accepts the following command line arguments in any order:
 <br>
 1) --csv-file <path/to/file>    The CSV file containing the todos. This option is required.
 <br>
