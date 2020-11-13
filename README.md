@@ -17,7 +17,11 @@
 <br>
 • Performed code reviews and exchanged information with teammates through Git.
 <br>
-The program accepts the following command line arguments in any order:
+<br>
+<br>
+<p align="center">
+  <span><strong>The program accepts the following command line arguments in any order:</strong></span>
+</p>
 <br>
 1) --csv-file <path/to/file>    The CSV file containing the todos. This option is required.
 <br>
